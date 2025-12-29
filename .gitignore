@@ -1,0 +1,36 @@
+/[Aa]ssets/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity specific
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.IDB
+*.VC.db
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Package development
+node_modules/
+dist/
+Doc/docs-app/node_modules/
+Doc/docs-app/dist/
