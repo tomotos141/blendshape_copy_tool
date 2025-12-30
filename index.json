@@ -1,7 +1,7 @@
 {
-    "name": "Antigravity VPM Repository",
-    "author": "Antigravity",
-    "url": "https://GITHUB_USERNAME.github.io/REPO_NAME/index.json",
+    "name": "tomotos141 VPM Repository",
+    "author": "tomotos141",
+    "url": "https://tomotos141.github.io/blendshape_copy_tool/index.json",
     "packages": {
         "com.antigravity.blendshape-copy-tool": {
             "versions": {
@@ -12,10 +12,10 @@
                     "description": "A tool to copy BlendShape values between SkinnedMeshRenderers.",
                     "unity": "2019.4",
                     "author": {
-                        "name": "Antigravity",
-                        "url": "https://github.com/GITHUB_USERNAME"
+                        "name": "tomotos141",
+                        "url": "https://github.com/tomotos141"
                     },
-                    "url": "https://github.com/GITHUB_USERNAME/REPO_NAME/releases/download/v1.0.0/com.antigravity.blendshape-copy-tool-1.0.0.zip",
+                    "url": "https://github.com/tomotos141/blendshape_copy_tool/releases/download/v1.0.0/com.antigravity.blendshape-copy-tool-1.0.0.zip",
                     "vpmDependencies": {}
                 }
             }

@@ -5,8 +5,8 @@
   "description": "A tool to copy BlendShape values between SkinnedMeshRenderers.",
   "unity": "2019.4",
   "author": {
-    "name": "Antigravity",
-    "url": "https://github.com/antigravity"
+    "name": "tomotos141",
+    "url": "https://github.com/tomotos141"
   },
   "vpmDependencies": {}
 }
