@@ -1,0 +1,25 @@
+{
+    "name": "Tomotos141 Packages",
+    "id": "com.antigravity.packages",
+    "author": "tomotos141",
+    "url": "https://github.com/tomotos141/blendshape_copy_tool/raw/master/index.json",
+    "packages": {
+        "com.antigravity.blendshape-copy-tool": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.antigravity.blendshape-copy-tool",
+                    "displayName": "BlendShape Copy Tool",
+                    "version": "1.0.0",
+                    "description": "A tool to copy BlendShape values between SkinnedMeshRenderers.",
+                    "unity": "2019.4",
+                    "author": {
+                        "name": "tomotos141",
+                        "url": "https://github.com/tomotos141"
+                    },
+                    "url": "https://github.com/tomotos141/blendshape_copy_tool/archive/refs/heads/master.zip",
+                    "vpmDependencies": {}
+                }
+            }
+        }
+    }
+}
